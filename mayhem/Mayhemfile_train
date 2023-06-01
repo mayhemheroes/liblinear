@@ -1,0 +1,4 @@
+project: liblinear
+target: train
+cmds:
+  - cmd: /train @@
